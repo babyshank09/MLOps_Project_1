@@ -37,7 +37,6 @@ file_names= [
     "setup.py", 
     "research.ipynb", 
     "templates/index.html", 
-
     "app.py"
 ]
 
@@ -49,7 +48,7 @@ for filepath in file_names:
     
 
     if os.path.exists(filepath):  
-        logging.info(f"{filename} in already exists inside {filepath}")  
+        logging.info(f"{filepath} in already exists")  
     
 
     else:
