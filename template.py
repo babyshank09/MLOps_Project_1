@@ -18,7 +18,6 @@ logging.basicConfig(
 file_names= [ 
     ".github/workflows/.gitkeep", 
     f"src/{project_name}/__init__.py",  
-    f"src/{project_name}/hi.py", 
     f"src/{project_name}/components/__init__.py", 
     f"src/{project_name}/utils/__init__.py", 
     f"src/{project_name}/utils/common.py",   
