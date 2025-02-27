@@ -57,3 +57,8 @@ Source-Age: 0
 
 ]
 [2025-02-27 14:47:18,418: INFO: 4166710704: artifacts\data_ingestion\data.zip unziped at artifacts\data_ingestion]
+[2025-02-27 14:54:45,900: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-02-27 14:54:45,910: INFO: common: Created directory at artifacts]
+[2025-02-27 14:54:45,910: INFO: common: Created directory at artifacts/data_ingestion]
+[2025-02-27 14:54:45,910: INFO: 4166710704: File already exists]
+[2025-02-27 14:54:45,933: INFO: 4166710704: artifacts\data_ingestion\data.zip unziped at artifacts\data_ingestion]
